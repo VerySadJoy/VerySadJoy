@@ -1,8 +1,3 @@
-# 👾 Jin Ha Joo 👾
----
-### **Hi There~👋**</h1>
-
-
 #### Contact
 - 💬 Ask me anything you wonder.
 
