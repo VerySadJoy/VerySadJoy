@@ -1,5 +1,4 @@
-#### Contact
-- 💬 Ask me anything you wonder.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerySadJoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinha497)](https://solved.ac/jinha497)
 
 [📨Via email](mailto:jinha497@gmail.com?subject=[GitHub])
 
